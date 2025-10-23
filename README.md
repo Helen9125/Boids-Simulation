@@ -93,7 +93,7 @@ Boids/
 
 ---
 
-## 🧑‍💻 Author
+## 👩‍💻 Author
 
 Developed by **Helen9125**  
 For educational purposes.
