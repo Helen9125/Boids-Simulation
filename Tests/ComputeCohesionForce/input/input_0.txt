@@ -1,0 +1,2 @@
+# b_1.position.x b_1.position.y b_2.position.x b_2.position.y proximity seperation_factor aligment_factor cohesion_factor
+0 0  3 4  1 1  10  1 1 1
