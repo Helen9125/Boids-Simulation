@@ -12,7 +12,7 @@ This project simulates the collective motion of boids using three behavioral rul
 Each boid acts independently but interacts with nearby boids within a threshold distance.
 
 <p align="center">
-  <img src="output/test_boids_3.gif" width="480" alt="Boids simulation demo">
+  <img src="output/test_boids_2.gif" width="480" alt="Boids simulation demo">
 </p>
 
 
