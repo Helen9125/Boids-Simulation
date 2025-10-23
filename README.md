@@ -16,7 +16,7 @@ Each boid acts independently but interacts with nearby boids within a threshold 
 </p>
 
 
-## Algorithm
+## 🧩 Algorithm
 ### Three principles were considered in the simulation:
 1. **Seperation**: boids try to avoid collisions with other nearby boids.
 2. **Alignment**: boids try to match the velocities of nearby boids.
